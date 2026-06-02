@@ -17,6 +17,12 @@
           Standings
         </a>
         <a
+          href="/matchmaker"
+          class="px-4 py-2 rounded-lg text-white font-medium hover:bg-tennis-dark transition-colors text-sm"
+        >
+          Matchmaker
+        </a>
+        <a
           href="/submit"
           class="px-4 py-2 rounded-lg bg-white text-tennis-primary font-semibold hover:bg-tennis-pale transition-colors text-sm"
         >
